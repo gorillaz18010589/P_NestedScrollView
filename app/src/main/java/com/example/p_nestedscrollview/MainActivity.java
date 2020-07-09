@@ -1,5 +1,5 @@
 package com.example.p_nestedscrollview;
-
+//
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.widget.NestedScrollView;
 
